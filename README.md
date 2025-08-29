@@ -49,26 +49,25 @@ Before running the project, ensure you have:
 
    ```bash
    git clone https://github.com/your-username/bmi-calculator.git
-Navigate to the project directory:
 
-bash
-Copy code
+2. Navigate to the project directory:
+
 cd bmi-calculator
+
 (Optional) Install a lightweight HTTP server for local development:
 
-bash
-Copy code
 npm install -g live-server
+
 🚀 How to Run
+
 Open the project folder.
 
 Run the app using any of these methods:
 
 Method 1: Using Live Server (Recommended)
 
-bash
-Copy code
 live-server
+
 This will automatically open the BMI Calculator in your default browser.
 
 Method 2: Manual Open
@@ -78,6 +77,7 @@ Simply double-click the index.html file.
 The application will open in your browser.
 
 📘 Usage Guide
+
 Enter your height in centimeters (e.g., 170).
 
 Enter your weight in kilograms (e.g., 65).
@@ -99,38 +99,49 @@ Your BMI Category:
 ≥ 30.0 → Obese
 
 🖥️ Technologies Used
+
 HTML5 – Structure
+<img width="1920" height="1080" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/cd9f139e-861f-4356-bfaa-00cd8a72443a" />
 
 CSS3 – Styling & Layout
 
 JavaScript (ES6) – Functionality & DOM Manipulation
 
 📸 Screenshots
+
 (Replace the placeholders with actual screenshots once available)
 
 Home Screen
 
+
 Result Example
 
+
+
 🧩 Troubleshooting
+
 Issue: App does not open in the browser.
 Solution: Ensure you are opening index.html with a modern browser or run via live-server.
 
 Issue: "Command not found" for live-server.
 Solution: Install it globally with:
 
-bash
-Copy code
 npm install -g live-server
+
+
 Issue: Results not updating.
 Solution: Make sure both inputs are filled with valid numeric values.
 
 📬 Support
+
+
 For questions, feedback, or issues, please contact:
 📧 suryaharan27@gmail.com
+
 🔗 GitHub Issues
 
 ⚠️ Disclaimer
+
 This BMI Calculator is intended for informational and educational purposes only.
 It is not a substitute for professional medical advice, diagnosis, or treatment.
 Always seek advice from a qualified healthcare provider regarding health concerns.
