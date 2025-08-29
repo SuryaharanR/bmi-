@@ -127,7 +127,7 @@ Solution: Make sure both inputs are filled with valid numeric values.
 
 📬 Support
 For questions, feedback, or issues, please contact:
-📧 your-email@example.com
+📧 suryaharan27@gmail.com
 🔗 GitHub Issues
 
 ⚠️ Disclaimer
